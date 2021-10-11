@@ -1,0 +1,2 @@
+[2021-09-01 16:08:21] [ERROR] [main:main.go:12] 这是一条Error日志
+[2021-09-01 16:08:21] [FATAL] [main:main.go:13] 这是一条Fatal日志

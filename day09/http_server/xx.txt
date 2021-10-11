@@ -1,0 +1,9 @@
+<h1 style="color:red">hello golang!</h1>
+<a href="http://www.sogo.com">点我去搜狗</a>
+<img src="https://www.liwenzhou.com/images/qrcode_for_gzh.jpg">
+<button id="b1">点我</button>
+
+<script>
+document.getElementById("b1").onclick=function(){
+alert("打你哦")}
+</script>
